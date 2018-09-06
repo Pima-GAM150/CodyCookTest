@@ -10,7 +10,7 @@ public class Movement : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		speed = 5f;
+		speed = 8f;
 		jumpPower = 10f;
 	}
 	
